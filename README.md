@@ -118,7 +118,7 @@ Your prowess and contributions are the lifeblood of this ongoing endeavor. If yo
 For full access or to discuss collaboration, reach out. Your acumen, feedback, and partnership are vital in steering this venture toward triumph.
 
 
-- **Email**: `[John@isamahub.com]`
+- **Email**: [John@isamahub.com](mailto:John@isamahub.com)
 
 
 Advance with me as i refine this toolkit into a formidable fortress against the cyber onslaught.
