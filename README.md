@@ -71,7 +71,7 @@ Bearing the MIT license, this tome is bestowed upon the world. Delve into the [L
 
 If this toolkit empowers you in your crusade against cyber villains, honor it with a star ⭐. Spread its glory to allies far and wide.
 
-For counsel, alliances, or collaborative magics, reach through the arcane ethers of GitHub or [your-email].
+For counsel, alliances, or collaborative magics, reach through the arcane ethers of GitHub or via email on my profile.
 
 ---
 
