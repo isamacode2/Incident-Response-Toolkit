@@ -72,11 +72,6 @@ Incident-Response-Toolkit/
 <br>
 
 
-
-## 🔍 Advanced Features 🚀
-
-<br>
-
 The toolkit's current iteration establishes a robust base, offering essential tools for logging and analysis, ready to furnish SOCs with pivotal insights. As the digital domain perpetually expands, defenses must evolve in tandem.
 
 <br>
