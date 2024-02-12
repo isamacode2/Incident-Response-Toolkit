@@ -1,0 +1,10 @@
+def tail(file):
+    print("Starting to tail file")  # Add this line
+    file.seek(0, 0)  # Go to the start of the file
+    while True:
+        line = file.readline()
+        if not line:
+            time.sleep(0.1)  # Sleep briefly
+            continue
+        print(f"Read line: {line}")  # Print the line to the console
+        yield line2022-01-01 12:34:56 192.0.2.1 203.0.113.1 TCP 200

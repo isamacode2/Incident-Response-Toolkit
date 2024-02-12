@@ -1,0 +1,3 @@
+2024-02-12 14:45:32,261:ERROR:Error monitoring log file: [Errno 2] No such file or directory: 'server.log'
+2024-02-12 14:47:13,098:ERROR:Error monitoring log file: [Errno 2] No such file or directory: '/path/to/your/logfile/server.log'
+2024-02-12 15:24:40,241:ERROR:An error occurred: Permission denied: could not open /dev/bpf0. Make sure to be running Scapy as root ! (sudo)

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🚨 Incident Response Toolkit: Your Cybersecurity Excalibur 🚨
 
 <br>
@@ -164,3 +165,7 @@ For counsel, alliances, or collaborative magics, reach through the arcane ethers
 ---
 
 #Cybersecurity #SOC #DigitalGuardians #OpenSource #MITLicense #Python #InfoSec
+=======
+# Incident Response Toolkit
+A comprehensive toolkit for SOC incident response.
+>>>>>>> 35a01a8 (Initial commit with directory structure)

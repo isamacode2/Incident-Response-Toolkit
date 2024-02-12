@@ -1,0 +1,9 @@
+2024-02-12 15:57:23,482:INFO:Timestamp: ), Source IP: #, Destination IP: Add, Protocol: this, Status Code: line
+2024-02-12 15:57:23,482:INFO:Timestamp: file.seek(0,, Source IP: 0), Destination IP: #, Protocol: Go, Status Code: to
+2024-02-12 15:57:23,483:ERROR:Error processing line: list index out of range
+2024-02-12 15:57:23,483:ERROR:Error processing line: list index out of range
+2024-02-12 15:57:23,483:ERROR:Error processing line: list index out of range
+2024-02-12 15:57:23,483:ERROR:Error processing line: list index out of range
+2024-02-12 15:57:23,483:ERROR:Error processing line: list index out of range
+2024-02-12 15:57:23,483:INFO:Timestamp: print(f"Read, Source IP: line:, Destination IP: {line}"), Protocol: #, Status Code: Print
+2024-02-12 15:57:23,483:INFO:Timestamp: yield, Source IP: line2022-01-01, Destination IP: 12:34:56, Protocol: 192.0.2.1, Status Code: 203.0.113.1

@@ -1,0 +1,2 @@
+2024-02-12 16:18:53,362:ERROR:Error correlating events: [Errno 2] No such file or directory: '/path/to/your/logfile1.log'
+2024-02-12 16:18:53,363:ERROR:Error visualizing data: 'NoneType' object has no attribute 'keys'
