@@ -77,19 +77,12 @@ Incident-Response-Toolkit/
 <br>
 
 ## 📈 Augment Your Arsenal 📈
-
 <br>
-
 The toolkit's current iteration establishes a robust base, offering essential tools for logging and analysis, ready to furnish SOCs with pivotal insights. As the digital domain perpetually expands, defenses must evolve in tandem.
-
 <br>
-
 ## 🔍 Quest for Advanced Guard 🚀
-
 <br>
-
 While the present toolkit stands formidable, it's yet to be outfitted with several high-level components:
-
 <br>
 
 - `anomaly_detector.py`: A sophisticated script for flagging unusual activities that may signal potential security incidents.
