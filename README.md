@@ -23,7 +23,7 @@ Amidst the clandestine alleys of the cyber universe, where unseen menaces prowl 
 
 <br>
 
-1. **Conjure the Codex**: `git clone https://github.com/yourusername/Incident-Response-Toolkit.git`
+1. **Conjure the Codex**: `https://github.com/isamacode2/Incident-Response-Toolkit`
 2. **Step into the Sanctum**: `cd Incident-Response-Toolkit`
 3. **Rouse the Aides**: `pip install -r requirements.txt`
 4. **Command the Scripts**: `python src/logging/network_logger.py`
