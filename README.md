@@ -77,12 +77,19 @@ Incident-Response-Toolkit/
 <br>
 
 ## 📈 Augment Your Arsenal 📈
+
 <br>
+
 The toolkit's current iteration establishes a robust base, offering essential tools for logging and analysis, ready to furnish SOCs with pivotal insights. As the digital domain perpetually expands, defenses must evolve in tandem.
+
 <br>
+
 ## 🔍 Quest for Advanced Guard 🚀
+
 <br>
+
 While the present toolkit stands formidable, it's yet to be outfitted with several high-level components:
+
 <br>
 
 - `anomaly_detector.py`: A sophisticated script for flagging unusual activities that may signal potential security incidents.
@@ -95,34 +102,26 @@ While the present toolkit stands formidable, it's yet to be outfitted with sever
 
 ## Join the Quest for Cyber Resilience 🚀
 
-<br>
 
 I recognize the invaluable role these advanced features can play in enhancing your incident response capabilities. If you've explored the toolkit and found its initial offerings align with your needs, you might be ready to unlock its full potential.
 
-<br>
 
 ## 🔗 Forge the Alliance 🔗
 
-<br>
 
 Your prowess and contributions are the lifeblood of this ongoing endeavor. If you're poised to enhance your cybersecurity stance or enrich the toolkit, your expertise is a beacon of progress.
 
-<br>
 
 ## 📬 Signal Your Intent 📬
 
-<br>
 
 For full access or to discuss collaboration, reach out. Your acumen, feedback, and partnership are vital in steering this venture toward triumph.
 
-<br>
 
 - **Email**: `John@isamahub.com`
 
-<br>
 
 Advance with me as i refine this toolkit into a formidable fortress against the cyber onslaught.
 
-<br>
 
 #CyberSecurityExcalibur #DigitalFortress #SOCWardens #CyberVigilance #PythonPower #InnovationInSecurity #TechCraftsmanship #FutureProofingSecurity
