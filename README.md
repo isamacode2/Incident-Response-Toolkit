@@ -122,7 +122,7 @@ Reach Out 📬
 
 For access to the full suite of tools or to discuss potential contributions, please don't hesitate to contact me. Your insights, feedback, and collaboration are the keystones of this project's ongoing evolution and success.
 
-📧 Email: [John@isamahub.com]
+📧 Email: John@isamahub.com
 
 <br>
 
