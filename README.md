@@ -20,9 +20,10 @@ Amidst the clandestine alleys of the cyber universe, where unseen menaces prowl 
 ## 🗺️ Embark on your journey to cyber resilience 🗺️
 
 
-```bash
+
 Clone the repository and navigate to the parent folder:
 
+```bash
 git clone https://github.com/isamacode2/Incident-Response-Toolkit.git
 cd Incident-Response-Toolkit
 ```
