@@ -104,17 +104,11 @@ The toolkit is set up to use the full website API for demonstration purposes. Ho
 <br>
 
 ![Web Extension](/path-to-your-image/web-extension.png)
-
-<br>
-
 *Web Extension: Browser scanner*
 
 <br>
 
 ![Linux Scanner](/path-to-your-image/linux-scanner.png)
-
-<br>
-
 *Linux Scanner API options and integration results*
 
 <br>
