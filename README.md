@@ -80,10 +80,46 @@ By following these steps, you'll have the toolkit set up and running on your sys
 
 <br>
 
-![Web Extension](https://github.com/isamacode2/Incident-Response-Toolkit/blob/main/images/Image%2013-02-2024%20at%2001.02.jpeg)
+## API Integration and Customization
 
-![Linux Scanner API ](https://github.com/isamacode2/Incident-Response-Toolkit/blob/main/images/Image%2013-02-2024%20at%2001.04.jpeg)
+<br>
 
+The `network_logger.py` script supports integration with a variety of APIs, allowing you to generate specific APIs suited to your needs and integrate them seamlessly. You can customize the script according to your operating system, preferences, and requirements.
+
+<br>
+
+### Generating Your API:
+
+<br>
+
+- **Choose the type of API you need from the available options.
+- **Configure the API with your system specifications and obtain your unique API key.
+- **Integrate the generated API with the `network_logger.py` script to enhance its capabilities.
+
+<br>
+
+For more information and to begin generating your own APIs, see the options below:
+The toolkit is set up to use the full website API for demonstration purposes. However, you can tailor the typescript based on your specific needs and operating system.
+
+<br>
+
+![Web Extension](/path-to-your-image/web-extension.png)
+
+<br>
+
+*Web Extension: Browser scanner*
+
+<br>
+
+![Linux Scanner](/path-to-your-image/linux-scanner.png)
+
+<br>
+
+*Linux Scanner API options and integration results*
+
+<br>
+
+Please review your scan results in the "Scan Dashboard" after generating your API to ensure proper integration and functionality.
 
 <br>
 
