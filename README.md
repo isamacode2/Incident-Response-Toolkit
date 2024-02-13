@@ -78,6 +78,12 @@ Execute the logging script to start monitoring network traffic. Ensure you have 
 
 By following these steps, you'll have the toolkit set up and running on your system. The initial script provided (`network_logger.py`) is just the starting point. Explore the `src/` directory for more scripts related to logging, analysis, and reporting to fully leverage the capabilities of the Incident Response Toolkit.
 
+<br>
+
+![Web Extension](https://github.com/isamacode2/Incident-Response-Toolkit/blob/main/images/Image%2013-02-2024%20at%2001.02.jpeg)
+
+![Linux Scanner API ](https://github.com/isamacode2/Incident-Response-Toolkit/blob/main/images/Image%2013-02-2024%20at%2001.04.jpeg)
+
 
 <br>
 
