@@ -92,9 +92,9 @@ The `network_logger.py` script supports integration with a variety of APIs, allo
 
 <br>
 
-- **Choose the type of API you need from the available options.**
-- **Configure the API with your system specifications and obtain your unique API key.**
-- **Integrate the generated API with the network_logger.py script to enhance its capabilities.**
+- Choose the type of API you need from the available options.
+- Configure the API with your system specifications and obtain your unique API key.
+- Integrate the generated API with the network_logger.py script to enhance its capabilities.
 
 
 <br>
