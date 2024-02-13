@@ -103,13 +103,20 @@ The toolkit is set up to use the full website API for demonstration purposes. Ho
 
 <br>
 
-![Web Extension](/path-to-your-image/web-extension.png)
 *Web Extension: Browser scanner*
 
 <br>
 
-![Linux Scanner](/path-to-your-image/linux-scanner.png)
+![Web Extension](https://github.com/isamacode2/Incident-Response-Toolkit/blob/main/images/Image%2013-02-2024%20at%2001.02.jpeg)
+
+<br>
+
 *Linux Scanner API options and integration results*
+
+<br>
+
+![Linux Scanner](https://github.com/isamacode2/Incident-Response-Toolkit/blob/main/images/Image%2013-02-2024%20at%2001.04.jpeg)
+
 
 <br>
 
