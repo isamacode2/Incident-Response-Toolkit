@@ -22,19 +22,17 @@ Amidst the clandestine alleys of the cyber universe, where unseen menaces prowl 
 
 ```bash
 Clone the repository and navigate to the parent folder:
+
 git clone https://github.com/isamacode2/Incident-Response-Toolkit.git
 cd Incident-Response-Toolkit
-
-Enter the toolkit's directory:
-cd Incident-Response-Toolkit
-
-Install dependencies:
-pip install -r requirements.txt
-
-Run the scripts:
-python src/logging/network_logger.py
 ```
 
+- **Enter the toolkit's directory:** 
+  - `cd Incident-Response-Toolkit`
+- **Install dependencies:** 
+  - `pip install -r requirements.txt`
+- **Run the scripts:** 
+  - `python src/logging/network_logger.py`
 
 
 <br>
